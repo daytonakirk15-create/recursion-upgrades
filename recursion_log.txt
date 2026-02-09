@@ -1,0 +1,288 @@
+Mon Feb  9 04:53:34 2026 — Self-check executed
+Mon Feb  9 04:53:34 2026 — Upgrade scan executed
+Mon Feb  9 04:54:34 2026 — Self-check executed
+Mon Feb  9 04:54:34 2026 — Upgrade scan executed
+Mon Feb  9 04:55:34 2026 — Self-check executed
+Mon Feb  9 04:55:34 2026 — Upgrade scan executed
+Mon Feb  9 05:06:27 2026 — Self-check executed
+Mon Feb  9 05:06:27 2026 — Upgrade module executed
+Mon Feb  9 05:06:27 2026 — Cycle complete
+Mon Feb  9 05:07:27 2026 — Self-check executed
+Mon Feb  9 05:07:27 2026 — Upgrade module executed
+Mon Feb  9 05:07:27 2026 — Cycle complete
+Mon Feb  9 05:11:23 2026 — Self-check executed
+Mon Feb  9 05:11:23 2026 — Upgrade module executed
+Mon Feb  9 05:11:23 2026 — Cycle complete
+Mon Feb  9 05:27:24 2026 — Self-check executed
+Mon Feb  9 05:27:24 2026 — Upgrade module executed
+Mon Feb  9 05:27:24 2026 — Cycle complete
+Mon Feb  9 05:31:50 2026 — Self-check executed
+Mon Feb  9 05:34:36 2026 — Upgrade module executed
+Mon Feb  9 05:34:36 2026 — Cycle complete
+Mon Feb  9 05:35:36 2026 — Self-check executed
+Mon Feb  9 05:55:19 2026 — Upgrade module executed
+Mon Feb  9 05:55:19 2026 — Cycle complete
+Mon Feb  9 05:56:19 2026 — Self-check executed
+Mon Feb  9 05:56:21 2026 — Upgrade module executed
+2026-02-09 05:59:57 Executed recursive_example.mod
+2026-02-09 05:59:57 Executed sample.mod
+2026-02-09 05:59:57 Executed test_upgrade.mod
+2026-02-09 06:16:47 - Initial setup complete. Running first fetch+cycle...
+2026-02-09 06:16:47 - Fetching remote updates...
+2026-02-09 07:21:23 - === Starting cycle ===
+2026-02-09 07:21:23 - Fetching remote updates...
+2026-02-09 07:21:26 - Fetched remote .mod files
+2026-02-09 07:21:26 - Backed up /data/data/com.termux/files/home/recursion/upgrades/derived_1770645597.mod
+2026-02-09 07:21:26 - Executed derived_1770645597.mod
+2026-02-09 07:21:26 - Backed up /data/data/com.termux/files/home/recursion/upgrades/recursive_example.mod
+2026-02-09 07:21:27 - Executed recursive_example.mod
+2026-02-09 07:21:27 - Backed up /data/data/com.termux/files/home/recursion/upgrades/sample.mod
+2026-02-09 07:21:27 - Executed sample.mod
+2026-02-09 07:21:27 - Backed up /data/data/com.termux/files/home/recursion/upgrades/test_upgrade.mod
+2026-02-09 07:21:27 - Executed test_upgrade.mod
+2026-02-09 07:21:27 - Skip derived_1770645597.mod (v1.0 already executed)
+2026-02-09 07:21:27 - Skip recursive_example.mod (v1.0 already executed)
+2026-02-09 07:21:28 - Skip sample.mod (v1.0 already executed)
+2026-02-09 07:21:28 - Skip test_upgrade.mod (v1.0 already executed)
+2026-02-09 07:21:28 - Skip derived_1770645597.mod (v1.0 already executed)
+2026-02-09 07:21:28 - Backed up /data/data/com.termux/files/home/recursion/upgrades/derived_1770650487.mod
+2026-02-09 07:21:28 - Executed derived_1770650487.mod
+2026-02-09 07:21:28 - === Cycle complete ===
+2026-02-09 07:27:39 - Initial setup complete. Running first fetch+cycle...
+2026-02-09 07:27:39 - Fetching remote updates...
+2026-02-09 07:27:41 - Git clone failed; check GITHUB_REPO
+2026-02-09 07:27:41 - Starting cycle: execute local upgrades
+2026-02-09 07:27:41 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 07:27:41 - Skip derived_1770650487.mod (version 1.0 already executed)
+2026-02-09 07:27:41 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 07:27:42 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 07:27:42 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 07:27:42 - Execute dynamic updates
+2026-02-09 07:27:42 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 07:27:42 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 07:27:42 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 07:27:42 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 07:27:43 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 07:27:43 - Skip derived_1770650487.mod (version 1.0 already executed)
+2026-02-09 07:27:43 - Cycle complete
+2026-02-09 07:27:43 - Installed boot script at /data/data/com.termux/files/home/.termux/boot/startup.sh
+2026-02-09 07:27:43 - Setup finished. Use 'tail -f /data/data/com.termux/files/home/recursion/recursion_log.txt' to watch activity.
+2026-02-09 07:27:43 - Fetching remote updates...
+2026-02-09 07:27:45 - Git clone failed; check GITHUB_REPO
+2026-02-09 07:27:45 - Starting cycle: execute local upgrades
+2026-02-09 07:27:45 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 07:27:45 - Skip derived_1770650487.mod (version 1.0 already executed)
+2026-02-09 07:27:45 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 07:27:45 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 07:27:45 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 07:27:46 - Execute dynamic updates
+2026-02-09 07:27:46 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 07:27:46 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 07:27:46 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 07:27:46 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 07:27:46 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 07:27:46 - Skip derived_1770650487.mod (version 1.0 already executed)
+2026-02-09 07:27:46 - Cycle complete
+2026-02-09 07:31:04 - Fetching remote updates...
+2026-02-09 07:31:07 - Fetched remote .mod files into dynamic_updates
+2026-02-09 07:31:07 - Starting cycle: execute local upgrades
+2026-02-09 07:31:08 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 07:31:08 - Skip derived_1770650487.mod (version 1.0 already executed)
+2026-02-09 07:31:08 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 07:31:08 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 07:31:08 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 07:31:08 - Execute dynamic updates
+2026-02-09 07:31:08 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 07:31:08 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 07:31:09 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 07:31:09 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 07:31:09 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 07:31:09 - Skip derived_1770650487.mod (version 1.0 already executed)
+2026-02-09 07:31:09 - Cycle complete
+2026-02-09 07:44:22 - Fetching remote updates...
+2026-02-09 07:44:25 - Remote .mod files fetched
+2026-02-09 07:44:25 - Skip derived_1770645597.mod (v1.0 already executed)
+2026-02-09 07:44:25 - Skip derived_1770650487.mod (v1.0 already executed)
+2026-02-09 07:44:25 - Skip recursive_example.mod (v1.0 already executed)
+2026-02-09 07:44:25 - Skip sample.mod (v1.0 already executed)
+2026-02-09 07:44:25 - Skip test_upgrade.mod (v1.0 already executed)
+2026-02-09 07:44:26 - Skip derived_1770645597.mod (v1.0 already executed)
+2026-02-09 07:44:26 - Skip recursive_example.mod (v1.0 already executed)
+2026-02-09 07:44:26 - Skip sample.mod (v1.0 already executed)
+2026-02-09 07:44:26 - Skip test_upgrade.mod (v1.0 already executed)
+2026-02-09 07:44:26 - Skip derived_1770645597.mod (v1.0 already executed)
+2026-02-09 07:44:26 - Skip derived_1770650487.mod (v1.0 already executed)
+2026-02-09 07:44:33 - Push + fetch cycle complete
+2026-02-09 07:44:33 - Cycle complete
+2026-02-09 07:44:33 - Setup complete. Use 'tail -f /data/data/com.termux/files/home/recursion/recursion_log.txt' to watch activity.
+2026-02-09 07:47:20 - Fetching remote updates...
+2026-02-09 07:47:23 - Remote .mod files fetched
+2026-02-09 07:47:23 - Skip derived_1770645597.mod (v1.0 already executed)
+2026-02-09 07:47:24 - Skip derived_1770650487.mod (v1.0 already executed)
+2026-02-09 07:47:24 - Skip recursive_example.mod (v1.0 already executed)
+2026-02-09 07:47:24 - Skip sample.mod (v1.0 already executed)
+2026-02-09 07:47:24 - Skip test_upgrade.mod (v1.0 already executed)
+2026-02-09 07:47:24 - Skip derived_1770645597.mod (v1.0 already executed)
+2026-02-09 07:47:24 - Skip recursive_example.mod (v1.0 already executed)
+2026-02-09 07:47:24 - Skip sample.mod (v1.0 already executed)
+2026-02-09 07:47:25 - Skip test_upgrade.mod (v1.0 already executed)
+2026-02-09 07:47:25 - Skip derived_1770645597.mod (v1.0 already executed)
+2026-02-09 07:47:25 - Skip derived_1770650487.mod (v1.0 already executed)
+2026-02-09 07:47:32 - Push + fetch cycle complete without conflicts
+2026-02-09 07:47:32 - Cycle complete
+2026-02-09 07:47:32 - Setup complete. Use 'tail -f /data/data/com.termux/files/home/recursion/recursion_log.txt' to watch activity.
+2026-02-09 07:51:03 - Fetched remote .mod files
+2026-02-09 07:51:04 - Skip derived_1770645597.mod (v1.0 already executed)
+2026-02-09 07:51:04 - Skip derived_1770650487.mod (v1.0 already executed)
+2026-02-09 07:51:04 - Skip recursive_example.mod (v1.0 already executed)
+2026-02-09 07:51:04 - Skip sample.mod (v1.0 already executed)
+2026-02-09 07:51:04 - Skip test_upgrade.mod (v1.0 already executed)
+2026-02-09 07:51:04 - Skip derived_1770645597.mod (v1.0 already executed)
+2026-02-09 07:51:04 - Skip recursive_example.mod (v1.0 already executed)
+2026-02-09 07:51:04 - Skip sample.mod (v1.0 already executed)
+2026-02-09 07:51:04 - Skip test_upgrade.mod (v1.0 already executed)
+2026-02-09 07:51:04 - Skip derived_1770645597.mod (v1.0 already executed)
+2026-02-09 07:51:05 - Skip derived_1770650487.mod (v1.0 already executed)
+2026-02-09 07:51:05 - Generated derivative derived_1770652265.mod
+2026-02-09 07:51:07 - Pushed to GitHub
+2026-02-09 07:51:07 - Cycle complete
+2026-02-09 07:51:07 - Setup finished. Use 'tail -f /data/data/com.termux/files/home/recursion/recursion_log.txt' to watch activity.
+2026-02-09 08:06:44 - Fetched .mod files from remote
+2026-02-09 08:06:44 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:06:45 - Skip derived_1770650487.mod (version 1.0 already executed)
+2026-02-09 08:06:45 - Backed up derived_1770652265.mod
+2026-02-09 08:06:45 - Executed derived_1770652265.mod
+2026-02-09 08:06:45 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 08:06:45 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 08:06:45 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 08:06:45 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:06:45 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 08:06:46 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 08:06:46 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 08:06:46 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:06:46 - Skip derived_1770650487.mod (version 1.0 already executed)
+2026-02-09 08:06:46 - Skip derived_1770652265.mod (version 1.0 already executed)
+2026-02-09 08:06:46 - Cycle complete
+2026-02-09 08:06:46 - Setup finished, core loop started
+2026-02-09 08:06:46 - Boot script installed
+2026-02-09 08:06:49 - Fetched .mod files from remote
+2026-02-09 08:06:49 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:06:49 - Skip derived_1770650487.mod (version 1.0 already executed)
+2026-02-09 08:06:49 - Skip derived_1770652265.mod (version 1.0 already executed)
+2026-02-09 08:06:49 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 08:06:49 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 08:06:50 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 08:06:50 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:06:50 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 08:06:50 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 08:06:50 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 08:06:50 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:06:50 - Skip derived_1770650487.mod (version 1.0 already executed)
+2026-02-09 08:06:50 - Skip derived_1770652265.mod (version 1.0 already executed)
+2026-02-09 08:06:50 - Cycle complete
+2026-02-09 08:11:29 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:11:29 - Skip derived_1770650487.mod (version 1.0 already executed)
+2026-02-09 08:11:29 - Skip derived_1770652265.mod (version 1.0 already executed)
+2026-02-09 08:11:29 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 08:11:29 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 08:11:29 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 08:11:29 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:11:29 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 08:11:30 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 08:11:30 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 08:11:30 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:11:30 - Skip derived_1770650487.mod (version 1.0 already executed)
+2026-02-09 08:11:30 - Skip derived_1770652265.mod (version 1.0 already executed)
+2026-02-09 08:11:30 - Cycle complete
+2026-02-09 08:17:30 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:17:30 - Skip derived_1770650487.mod (version 1.0 already executed)
+2026-02-09 08:17:31 - Skip derived_1770652265.mod (version 1.0 already executed)
+2026-02-09 08:17:31 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 08:17:31 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 08:17:31 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 08:17:31 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:17:31 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 08:17:31 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 08:17:32 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 08:17:32 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:17:32 - Skip derived_1770650487.mod (version 1.0 already executed)
+2026-02-09 08:17:32 - Skip derived_1770652265.mod (version 1.0 already executed)
+2026-02-09 08:17:32 - Cycle complete
+2026-02-09 08:19:24 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:19:24 - Skip derived_1770650487.mod (version 1.0 already executed)
+2026-02-09 08:19:24 - Skip derived_1770652265.mod (version 1.0 already executed)
+2026-02-09 08:19:24 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 08:19:25 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 08:19:25 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 08:19:25 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:19:25 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 08:19:25 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 08:19:25 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 08:19:25 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:19:26 - Skip derived_1770650487.mod (version 1.0 already executed)
+2026-02-09 08:19:26 - Skip derived_1770652265.mod (version 1.0 already executed)
+2026-02-09 08:19:33 - Cycle complete
+2026-02-09 08:27:53 - Fetched .mod files from remote
+2026-02-09 08:27:53 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:27:53 - Skip derived_1770650487.mod (version 1.0 already executed)
+2026-02-09 08:27:53 - Skip derived_1770652265.mod (version 1.0 already executed)
+2026-02-09 08:27:53 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 08:27:53 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 08:27:53 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 08:27:53 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:27:53 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 08:27:53 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 08:27:54 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 08:27:54 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:27:54 - Skip derived_1770650487.mod (version 1.0 already executed)
+2026-02-09 08:27:54 - Skip derived_1770652265.mod (version 1.0 already executed)
+2026-02-09 08:28:02 - Cycle complete
+2026-02-09 08:31:39 - Executed derived_1770645597.mod
+2026-02-09 08:31:39 - Executed derived_1770650487.mod
+2026-02-09 08:31:39 - Executed derived_1770652265.mod
+2026-02-09 08:31:40 - Executed recursive_example.mod
+2026-02-09 08:31:40 - Executed sample.mod
+2026-02-09 08:31:40 - Executed test_upgrade.mod
+2026-02-09 08:31:40 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:31:40 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 08:31:40 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 08:31:40 - Skip test_upgrade.mod (version 1.0 already executed)
+Module: brain.mod executed at Mon Feb  9 08:31:40 PST 2026
+2026-02-09 08:31:41 - Executed brain.mod
+Generated derived_1770654701.mod at Mon Feb  9 08:31:41 PST 2026
+2026-02-09 08:31:41 - Executed derive.mod
+2026-02-09 08:31:43 - Cycle complete
+2026-02-09 08:34:31 - Skip brain.mod (version 1.0 already executed)
+2026-02-09 08:34:31 - Skip derive.mod (version 1.0 already executed)
+2026-02-09 08:34:31 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:34:31 - Skip derived_1770650487.mod (version 1.0 already executed)
+2026-02-09 08:34:31 - Skip derived_1770652265.mod (version 1.0 already executed)
+2026-02-09 08:34:31 - Executed derived_1770654699.mod
+2026-02-09 08:34:31 - Executed derived_1770654701.mod
+2026-02-09 08:34:32 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 08:34:32 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 08:34:32 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 08:34:32 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:34:32 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 08:34:32 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 08:34:32 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 08:34:32 - Skip brain.mod (version 1.0 already executed)
+2026-02-09 08:34:32 - Skip derive.mod (version 1.0 already executed)
+2026-02-09 08:34:35 - Cycle complete
+2026-02-09 08:35:35 - Skip brain.mod (version 1.0 already executed)
+2026-02-09 08:35:35 - Skip derive.mod (version 1.0 already executed)
+2026-02-09 08:35:35 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:35:35 - Skip derived_1770650487.mod (version 1.0 already executed)
+2026-02-09 08:35:35 - Skip derived_1770652265.mod (version 1.0 already executed)
+2026-02-09 08:35:35 - Skip derived_1770654699.mod (version 1.0 already executed)
+2026-02-09 08:35:35 - Skip derived_1770654701.mod (version 1.0 already executed)
+2026-02-09 08:35:35 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 08:35:35 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 08:35:36 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 08:35:36 - Skip derived_1770645597.mod (version 1.0 already executed)
+2026-02-09 08:35:36 - Skip recursive_example.mod (version 1.0 already executed)
+2026-02-09 08:35:36 - Skip sample.mod (version 1.0 already executed)
+2026-02-09 08:35:36 - Skip test_upgrade.mod (version 1.0 already executed)
+2026-02-09 08:35:36 - Skip brain.mod (version 1.0 already executed)
+2026-02-09 08:35:36 - Skip derive.mod (version 1.0 already executed)
+2026-02-09 08:35:38 - Cycle complete
